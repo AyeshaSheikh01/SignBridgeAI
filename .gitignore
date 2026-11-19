@@ -1,0 +1,15 @@
+# Local image datasets
+/asl_dataset/
+/asl_dataset1/
+/image/
+
+# Generated features and model outputs
+/landmarks.csv
+/asl_model.pkl
+
+# Python and Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/

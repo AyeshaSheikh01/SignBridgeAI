@@ -1,0 +1,11 @@
+ipykernel
+jupyter
+joblib
+matplotlib
+mediapipe
+numpy
+opencv-python
+pandas
+scikit-learn
+torch
+torchvision
